@@ -4,9 +4,8 @@ compatibility_date = "2026-08-24"
 
 [assets]
 directory = "./public"
-binding = "ASSETS"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "mudabbir-db"
-database_id = "REPLACE_AFTER_CREATING_D1"
+database_id = "e81757a6-1bf9-4f5a-bdba-538755273554"
