@@ -1,6 +1,6 @@
 name = "mudabbir"
 main = "worker.js"
-compatibility_date = "2026-08-24"
+compatibility_date = "2026-08-20"
 
 [assets]
 directory = "./public"
