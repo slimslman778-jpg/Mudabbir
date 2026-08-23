@@ -1,0 +1,11 @@
+name = "mudabbir"
+main = "worker.js"
+compatibility_date = "2026-08-24"
+
+[assets]
+directory = "./public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mudabbir-db"
+database_id = "REPLACE_AFTER_CREATING_D1"
